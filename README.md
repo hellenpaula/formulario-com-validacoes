@@ -8,7 +8,7 @@
 
 ## 📌 Sobre
 
-Este é um projeto de **Formulário com Validações** desenvoldido com o objetivo de praticar conceitos fundamentais de HTML, CSS e JavaScript. A ideia principal foi explorar o uso correto das **tags de formulário**, aplicar validações de entrada e melhorar a experiência do usuário ao preencher os campos. 
+Este é um projeto de **Formulário com Validações** desenvolvido com o objetivo de praticar conceitos fundamentais de HTML, CSS e JavaScript. A ideia principal foi explorar o uso correto das **tags de formulário**, aplicar validações de entrada e melhorar a experiência do usuário ao preencher os campos. 
 
 ## 📚 Aprendizados
 Durante o desenvolvimento deste projeto de formulário com validações, pude aprofundar meus conhecimentos em HTML5, CSS3 e JavaScript, com foco nos seguintes pontos:
