@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+    <title>Form</title>
+</head>
+<body>
+    
+    <main class="container">
+        <header class="header">
+            <h2>Sign In</h2>
+        </header>
+
+        <form class="form">
+            <section class="form-content" id="section-username">
+                <label for="username">Username</label>
+                <input
+                type="text"
+                id="username"
+                placeholder="Enter your username...">
+                <a>Mensagem de erro</a>
+            </section>
+
+            <section class="form-content" id="section-email">
+                <label for="email">Email</label>
+                <input
+                type="email"
+                id="email"
+                placeholder="Enter your email...">
+                <a>Mensagem de erro</a>
+            </section>
+
+            <section class="form-content" id="section-password">
+                <label for="password">Password</label>
+                <input
+                type="password"
+                id="password"
+                placeholder="Enter your password..."> 
+                <i class="fa-solid fa-eye" id="eye1" ></i>
+                <a>Mensagem de erro</a>
+            </section>
+
+            <section class="form-content" id="section-passwordConfirm">
+                <label for="passwordConfirm">Confirm password</label>
+                <input
+                type="password"
+                id="passwordConfirm"
+                placeholder="Enter your password...">
+                <i class="fa-solid fa-eye" id="eye2"></i>
+                <a>Mensagem de erro</a>
+            </section>
+
+            <span id="msgLogin">Mensagem</span>
+            <button type="submit">
+                Login
+            </button>
+        </form>
+    </main>
+
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
