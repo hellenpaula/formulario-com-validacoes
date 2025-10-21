@@ -1,7 +1,7 @@
 
 <h1 align="center"> Formulário com Validações </h1>
 
-<h1 align="center"> <a href="https://hellenpaula.github.io/formulario-com-validacoes/" target="_blanck"> Veja o projeto aqui!</a> </h1>
+<h1 align="center"> <a href="https://hellenpaula.github.io/formulario-com-validacoes/" target="_blank"> Veja o projeto aqui!</a> </h1>
 
 ## 📷 Preview do projeto:
 <h1 align="center"> <img src="assets/img/mockup formulario 2.png"> </img></h1>
